@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b87cd7c8.chunk.css",
+    "main.js": "/static/js/main.58ec925d.chunk.js",
+    "main.js.map": "/static/js/main.58ec925d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1856bfbd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1856bfbd.js.map",
+    "static/js/2.23278c15.chunk.js": "/static/js/2.23278c15.chunk.js",
+    "static/js/2.23278c15.chunk.js.map": "/static/js/2.23278c15.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10f5f511a44096768314b3210fdb06ef.js": "/precache-manifest.10f5f511a44096768314b3210fdb06ef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b87cd7c8.chunk.css.map": "/static/css/main.b87cd7c8.chunk.css.map",
+    "static/js/2.23278c15.chunk.js.LICENSE": "/static/js/2.23278c15.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/Billabong.c55d06a4.woff",
+    "static/media/arrow-right.7cf511ab.svg": "/static/media/arrow-right.7cf511ab.svg",
+    "static/media/heart-filled.d13fb8b4.svg": "/static/media/heart-filled.d13fb8b4.svg",
+    "static/media/heart.0dae4a2d.svg": "/static/media/heart.0dae4a2d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1856bfbd.js",
+    "static/js/2.23278c15.chunk.js",
+    "static/css/main.b87cd7c8.chunk.css",
+    "static/js/main.58ec925d.chunk.js"
+  ]
+}
